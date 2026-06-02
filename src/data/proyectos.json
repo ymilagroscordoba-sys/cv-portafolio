@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Biblioteca Pokemon",
+    "descripcion": "SPA para buscar y guardar Pokémon",
+    "tecnologias": ["React", "JavaScript", "CSS"],
+    "imagen": "Captura de pantalla 2026-05-08 211645.png"
+  }
+]

@@ -1,0 +1,38 @@
+
+:root{
+  --bs-primary: #800000;
+  --bs-info: #800000;
+}
+
+
+.btn-primary{
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.btn-primary:hover{
+  background-color: #5f0000 !important;
+  border-color: #5f0000 !important;
+}
+.badge.bg-primary{
+  background-color: #800000 !important;
+}
+.bg-primary{
+  background-color: #800000 !important;
+}
+.text-primary{
+  color: #800000 !important;
+}
+.text-info{
+  color: #800000 !important;
+}
+.link-primary{
+  color: #800000 !important;
+}
+.nav-link{
+  color: #800000 !important;
+}
+
+
+a.text-primary{
+  color: #800000 !important;
+}
